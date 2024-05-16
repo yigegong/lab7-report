@@ -1,7 +1,8 @@
 # lab7-report
 
 ## Step 4 Keys pressed:
-`ssh y8gong@ieng6.ucsd.edu <enter>`
+```ssh y8gong@ieng6.ucsd.edu <enter>
+```
 ---
 By entering this command, I logged into the ieng6 terminal.
 
