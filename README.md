@@ -1,5 +1,5 @@
 # lab7-report
-
+![image](4.jpeg)
 ## Step 4 Keys pressed:
 ```
 ssh y8gong@ieng6.ucsd.edu <enter>
