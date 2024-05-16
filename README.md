@@ -29,7 +29,8 @@ bash test.sh
 ## Step 7
 ![image](7.jpeg)
 ## Step 7 Keys pressed:
-```vim ListExample.java
+```
+vim ListExample.java
 <down><down><down><down><down><down><down><down> <left><left> `x` `i` `2` <esc> `:wq` <enter>
 ```
 
