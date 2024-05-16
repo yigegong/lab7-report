@@ -48,9 +48,9 @@ bash test.sh
 ![image](9.jpeg)
 ## Step 9 Keys pressed:
 ```
-git add -a
-git commit
+git add -A
+git commit -m "bug fixed"
 git push
 ```
-`git add -a` stages all the changes made within the lab7 directory locally, `git commit` saves the staged changes locally, and `git push` saves the commited changes to the remote repository, which is my github account.
+`git add -A` stages all the changes made within the lab7 directory locally, `git commit  -m "bug fixed"` saves the staged changes locally with the message "bug fixed", and `git push` saves the commited changes to the remote repository, which is my github account.
 
