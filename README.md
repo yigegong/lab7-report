@@ -33,7 +33,7 @@ bash test.sh
 <down><down><down><down><down><down><down><down> <left><left> `x` `i` `2` <esc> `:wq` <enter>
 ```
 
-By pressing the <down> arrow key 8 times and <left> arrow key 2 times, I moved the cursor on the `1` in `index1`. `x` deletes the `1`, `i` enters the insert mode so I can type `2` to replace the deleted `1`. By changing the `index1` to `index2`, the bug is fixed. `<esc>` exits the insert mode, `:wq` and pressing the <enter> key saves the change just made and exit the vim editor.
+By pressing the <down> arrow key 8 times and <left> arrow key 2 times, I moved the cursor on the `1` in `index1`. `x` deletes the `1`, `i` enters the insert mode so I can type `2` to replace the deleted `1`. By changing the `index1` to `index2`, the bug is fixed. `<esc>` exits the insert mode, `:wq` and pressing the `<enter>` key saves the change just made and exit the vim editor.
 
 ## Step 8
 ![image](8.jpeg)
